@@ -1,0 +1,11 @@
+platform :ios, '9.0'
+#use_frameworks!
+
+target '3-RxSwift中Subjects使用' do
+
+  pod "RxSwift"
+  pod "RxCocoa"
+  pod 'RxGesture'
+
+end
+
